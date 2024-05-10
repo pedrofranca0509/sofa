@@ -1,0 +1,69 @@
+body {
+    background-color: #D9CDF7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    margin: 100px;
+}
+
+
+.textcod {
+    width: 75px;
+    height: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 10px;
+}
+
+.textname {
+    width: 274px;
+    height: 32px;
+    font-family: 'Crimson Pro', sans-serif;
+    font-size: 32px;
+    line-height: 32px;
+    align-content: center;
+    margin-top: 20px;
+    size: 32px;
+    width: 100%;
+}
+
+.textnum {
+    width: 65px;
+    height: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+.textprinc{
+    padding: 10px;
+}
+
+.butao{
+    margin-top: 10px;
+}
+
+button{
+    border-radius: 999px;
+    background-color: #D9CDF7;
+    text-transform: uppercase;
+    cursor: pointer;
+    align-items: center;
+    width: 210px;
+    height: 40px;
+    border: 0.5px solid #271a45;
+    margin-top: 15px;
+}
+
+a {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+    background-color: #D9CDF7;
+    border-radius: 999px;
+    align-items: center;
+}
